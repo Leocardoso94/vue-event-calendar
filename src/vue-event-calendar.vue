@@ -246,7 +246,7 @@ export default {
         width: 100%;
         overflow: hidden;
         text-align: center;
-        font-size: 1rem;
+        font-size: 16px;
         .item{
           line-height: 50px;
           float: left;
@@ -257,7 +257,7 @@ export default {
         width: 100%;
         overflow: hidden;
         text-align: center;
-        font-size: 1rem;
+        font-size: 16px;
         .item{
           position: relative;
           float: left;
@@ -266,7 +266,7 @@ export default {
           cursor: default;
           -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
           .date-num{
-            font-size: 1rem;
+            font-size: 16px;
             position: relative;
             z-index: 3;
           }
